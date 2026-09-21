@@ -14,6 +14,7 @@ This project analyzes student performance data to identify factors with academic
   - Numpy
   - Matplotlib
   - Seaborn
+  - power bi
   - SciKit-learn
     ## project workflow
     1. Data cleaning
@@ -22,3 +23,4 @@ This project analyzes student performance data to identify factors with academic
     4. Features preparation
     5. Machine learning
     6. Model evaluation
+    7. further analysis with power bi
